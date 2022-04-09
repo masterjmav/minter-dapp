@@ -1,9 +1,9 @@
 const contractAddress = "0x819c1b3D4c26ED26a86D1A89dc87C4d6bc5173dD"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Surfers NFT Project!!";
+const welcome_h1 = "Welcome to the Blockchain Surfers NFT Squad!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Surfers NFT Project is a unique nft experiment made by Masterjmav. Come take a look at some great nft projects!       <a href="https://www.nft-tribune.com"  target="_blank" rel="noopener noreferrer">NFT Tribune</a> Main Website.';
+const welcome_p = 'The Surfers NFT Collection is a unique nft experiment made by Masterjmav. Come take a look at some great nft projects!       <a href="https://www.nft-tribune.com"  target="_blank" rel="noopener noreferrer">NFT Tribune</a> Main Website.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
