@@ -10,7 +10,7 @@
   --font-code: 'Concert One', cursive;
   --bg-color: #0b1c3b;
   --bg-color-transparent: #085efd80;
-  --font-color: #ffffff;
+  --font-color: hsl(133, 65%, 47%);
   --btn-bg-color: #ffffff;
   --accent-color: #2115d1;
   --header-shadow: var(--accent-color) 0px 0px 5px;
