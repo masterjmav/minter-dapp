@@ -3,13 +3,13 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Surfers NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Surfers NFT Project is a unique collection made by Masterjmav. Come visit my site! <a href="https://www.nft-tribune.com"  target="_blank" rel="noopener noreferrer">NFT Tribune</a> Main Website.';
+const welcome_p = 'The Surfers NFT Project is a unique nft experiment made by Masterjmav. Come visit my site! <a href="https://www.nft-tribune.com"  target="_blank" rel="noopener noreferrer">NFT Tribune</a> Main Website.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
+const p_presale_coming_soon = "We are working hard to launch this bitch. Stay tuned for updates!";
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
