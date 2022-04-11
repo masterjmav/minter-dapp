@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Blockchain Surfers NFT Squad!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Surfers NFT Collection is a unique nft experiment made by Masterjmav. Visit our site for more info!       <a href="https://www.nft-tribune.com/surfers"  target="_blank" rel="noopener noreferrer">NFT Tribune</a> Main Website.';
+const welcome_p = 'First session is launching! Visit our site for more info!       <a href="https://www.nft-tribune.com/surfers"  target="_blank" rel="noopener noreferrer">NFT Tribune</a> Main Website.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
